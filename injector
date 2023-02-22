@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Beast007x/fake-friend-req-rblx/main/FR.lua", true))()
+Request("Username", "Image")
